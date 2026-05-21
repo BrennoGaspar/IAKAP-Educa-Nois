@@ -49,6 +49,12 @@ Este projeto foi desenvolvido com o propósito de aplicar conceitos de desenvolv
 
 ---
 
+## 📸 Preview
+
+<img width="1904" height="941" alt="image" src="https://github.com/user-attachments/assets/990822e2-9a92-4bc4-af26-327392f1e803" />
+
+---
+
 ## 👨‍💻 Autores
 
 - Brenno Gaspar Pinto
